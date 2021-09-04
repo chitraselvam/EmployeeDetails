@@ -28,6 +28,11 @@ System.out.println("nchitra2015@gmail.com");
 		System.out.println("chennai");
 
 	}
+	public void empMobile() {
+		// TODO Auto-generated method stub
+		System.out.println("9840361729");
+
+	}
 	public static void main (String [] args)
 	{
 		Employee x = new Employee();
